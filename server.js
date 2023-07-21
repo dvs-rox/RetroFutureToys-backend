@@ -20,6 +20,10 @@ app.use(cors(corsOptions))
 
 const port = process.env.PORT || 3030
 // Express App Configuration:
+app.get('/**', (req, res) => {
+  res.sendFile(path.resolve('public/index.html'))
+})
+
 app.use(express.static('public'))
 app.use(express.json())
 
