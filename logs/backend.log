@@ -133,3 +133,140 @@
 19.7.2023, 20:56:50 - INFO - Server listening on port http://127.0.0.1:3030/
 19.7.2023, 20:56:51 - INFO - Server listening on port http://127.0.0.1:3030/
 19.7.2023, 20:58:03 - INFO - Server listening on port http://127.0.0.1:3030/
+19.7.2023, 21:44:51 - INFO - Server listening on port http://127.0.0.1:3030/
+19.7.2023, 21:52:18 - INFO - Server listening on port http://127.0.0.1:3030/
+19.7.2023, 21:52:58 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 15:12:48 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:45:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:45:55 - ERROR - ReferenceError: logger is not defined
+20.7.2023, 16:45:55 - ERROR - Cannot get toy | ReferenceError: logger is not defined
+20.7.2023, 16:46:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:46:54 - ERROR - Cannot Connect to DB | TypeError: MongoClient.connect is not a function
+20.7.2023, 16:46:54 - ERROR - Failed to get Mongo collection | TypeError: MongoClient.connect is not a function
+20.7.2023, 16:46:54 - ERROR - TypeError: MongoClient.connect is not a function
+20.7.2023, 16:46:54 - ERROR - Cannot get toy | TypeError: MongoClient.connect is not a function
+20.7.2023, 16:48:38 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:48:39 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 16:49:08 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:09:21 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:09:25 - ERROR - ReferenceError: Cannot access 'toy' before initialization
+20.7.2023, 17:09:25 - ERROR - Cannot get toys | ReferenceError: Cannot access 'toy' before initialization
+20.7.2023, 17:09:48 - ERROR - ReferenceError: Cannot access 'toy' before initialization
+20.7.2023, 17:09:48 - ERROR - Cannot get toys | ReferenceError: Cannot access 'toy' before initialization
+20.7.2023, 17:10:09 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:13:15 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:16:10 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:18:48 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:23:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:25:33 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:25:35 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:26:08 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:26:08 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:26:13 - ERROR - cannot remove toy 64b9432003542167f47415d1 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 17:26:13 - ERROR - Cannot remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+20.7.2023, 17:29:58 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:31:46 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:32:46 - ERROR - Cannot update existing toy  | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+20.7.2023, 17:33:55 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:34:01 - ERROR - Cannot update existing toy  | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+20.7.2023, 17:36:00 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:36:31 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:38:37 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:43:51 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:45:51 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:45:58 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:45:58 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:46:00 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:46:00 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:46:19 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:46:19 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:46:36 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:47:26 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:47:32 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:47:33 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:47:37 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:47:37 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:47:50 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:47:53 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:47:53 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:48:00 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:48:00 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:48:06 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:51:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:51:52 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:51:52 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:51:54 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:51:54 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:52:57 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:53:01 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:53:01 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:53:03 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:53:03 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:55:35 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:55:37 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:55:37 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:55:39 - ERROR - TypeError: collection.sort is not a function
+20.7.2023, 17:55:39 - ERROR - Cannot get toy | TypeError: collection.sort is not a function
+20.7.2023, 17:55:48 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:57:40 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 17:57:44 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:44 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:50 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:50 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:51 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:51 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:53 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:53 - ERROR - Cannot get toy | MongoInvalidArgumentError: Operation "limit" requires an integer
+20.7.2023, 17:57:59 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:01:40 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:01:59 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:01:59 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:04:03 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:04:20 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:07:27 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:07:33 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:07:33 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:10:18 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:10:19 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:10:27 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:10:27 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:11:50 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:17:57 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:17:57 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:18:11 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:18:11 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:20:37 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:26:10 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:26:10 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:26:21 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:26:21 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:32:33 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:32:33 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:34:37 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:35:09 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:35:47 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:35:52 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:35:58 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:35:58 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:36:20 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:20 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:28 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:28 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:36 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:36:40 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:40 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:42 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:42 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:43 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:43 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:52 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 18:36:55 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:55 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:58 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:58 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:59 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+20.7.2023, 18:36:59 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+21.7.2023, 12:45:19 - ERROR - MongoServerError: FieldPath cannot be constructed with empty string
+21.7.2023, 12:45:19 - ERROR - Cannot get toy | MongoServerError: FieldPath cannot be constructed with empty string
+21.7.2023, 12:48:08 - INFO - Server listening on port http://127.0.0.1:3030/

@@ -1,7 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 
-import { toyService } from './services/toy.service.js'
+import { toyService } from './api/toy/toy.service.js'
 import { loggerService } from './services/logger.service.js'
 
 const app = express()

@@ -1,28 +1,8 @@
 [
   {
-    "_id": "b9fc1b84-b270-4deb-b0d8-1e303fd980a3",
-    "title": "Ascomp with Codeine",
-    "price": 179.18,
-    "labels": [
-      "action"
-    ],
-    "createdAt": "1665227648",
-    "inStock": true
-  },
-  {
-    "_id": "49ccfa39-4544-4e9b-8596-fa75f10cf40f",
-    "title": "Metformin Hydrochloride",
-    "price": 41.03,
-    "labels": [
-      "action"
-    ],
-    "createdAt": "1688028943",
-    "inStock": false
-  },
-  {
     "_id": "f84ccdb1-9264-46a4-8c65-e880e5e102eb",
     "title": "Metoprolol Tartrate",
-    "price": 195.6,
+    "price": 193,
     "labels": [
       "science fiction"
     ],
@@ -272,7 +252,7 @@
   {
     "_id": "94e0f8e0-244e-4d6f-a108-dd8a9302b10a",
     "title": "Benzonatate",
-    "price": 95.0,
+    "price": 95,
     "labels": [
       "science fiction"
     ],
@@ -542,7 +522,7 @@
   {
     "_id": "eda028bb-135b-42d3-85e8-d70b44ad114b",
     "title": "Carvedilol",
-    "price": 109.0,
+    "price": 109,
     "labels": [
       "action"
     ],
@@ -642,7 +622,7 @@
   {
     "_id": "300b9b5e-b9e6-4df5-b4f0-050df95d7884",
     "title": "PAROXETINE",
-    "price": 36.0,
+    "price": 36,
     "labels": [
       "science fiction"
     ],
@@ -652,7 +632,7 @@
   {
     "_id": "87b455ab-3233-4a9f-bebc-d8a5a535c536",
     "title": "MORPHINE SULFATE",
-    "price": 171.0,
+    "price": 171,
     "labels": [
       "science fiction"
     ],
